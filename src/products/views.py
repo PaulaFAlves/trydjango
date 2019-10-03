@@ -3,7 +3,6 @@ from django.shortcuts import render
 from .forms import ProductForms, RawProductForm
 
 from .models import Product 
-# Create your views here.
 
 def product_create_view(request):
 	my_form = RawProductForm()
