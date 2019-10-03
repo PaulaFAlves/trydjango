@@ -13,7 +13,7 @@ def product_create_view(request):
 	}
 	return render(request, "products/product_create.html", context)
 
-# def product_create_view(request):
+# def product_create_view(request): 
 # 	# print(request.GET)
 # 	# print(request.POST)
 # 	if request.method == "POST":
