@@ -1,0 +1,337 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"mari",
+				"margin-right\tproperty"
+			],
+			[
+				"ma",
+				"margin-left\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"margi",
+				"margin-right\tproperty"
+			],
+			[
+				"bak",
+				"background-color\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"bacn",
+				"background-color\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"m",
+				"mySlides"
+			],
+			[
+				"fo",
+				"foto02"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"sli",
+				"slide03"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"l",
+				"lastName"
+			],
+			[
+				"f",
+				"firstName"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"sectio",
+				"section3"
+			],
+			[
+				"sec",
+				"section2"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"o",
+				"ol\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/user/Dev"
+	],
+	"file_history":
+	[
+		"/Users/user/Dev/Giraffe",
+		"/Users/user/Dev/trydjango/src/trydjango/settings.py",
+		"/Users/user/Dev/trydjango/src/products/models.py",
+		"/Users/user/Dev/trydjango/src/products/admin.py",
+		"/Users/user/Desktop/Samples/220819/README.md",
+		"/Users/user/Desktop/Samples/220819/login.html",
+		"/Users/user/Desktop/Samples/220819/index.html",
+		"/Users/user/cousera-test/Paula Alves/style.css",
+		"/Users/user/cousera-test/Paula Alves/index.html",
+		"/Users/user/cousera-test/Exercicios/Exercicio010_style.css",
+		"/Users/user/cousera-test/Exercicios/Exercicio010_positioningElementsByFloating.html",
+		"/Users/user/Library/Application Support/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/Users/user/Library/Application Support/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/Users/user/cousera-test/Exercicios/Exercicio009_theBackgroundProperty.html",
+		"/Users/user/cousera-test/Exercicios/Exercicio008_theBoxModel.html",
+		"/Users/user/cousera-test/Paula Alves/Leandro Ferri/style.css",
+		"/Users/user/cousera-test/Paula Alves/Leandro Ferri/index.html",
+		"/Users/user/cousera-test/JS/Exc001/script.js",
+		"/Users/user/cousera-test/JS/Exc001/index.html",
+		"/Users/user/cousera-test/Exercicios/Exercicio007_Pseudo-Class Selectors.html",
+		"/Users/user/cousera-test/Exercicios/Exercicio006_Images.html",
+		"/Users/user/cousera-test/Exercicios/Exercicio004_Lists.html",
+		"/Users/user/cousera-test/Exercicios/Exercicio005_Links.html",
+		"/Users/user/cousera-test/Exercicios/Exercicio003_Semantics_Elements.html",
+		"/Users/user/cousera-test/Exercicios/Exercicio003_Headings.html",
+		"/Users/user/cousera-test/Exercicios/Exercicio002.html",
+		"/Users/user/cousera-test/Exercicios/Exercicio001.html",
+		"/Users/user/cousera-test/site/index.html",
+		"/Users/user/test_site/index.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "trydjango.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
